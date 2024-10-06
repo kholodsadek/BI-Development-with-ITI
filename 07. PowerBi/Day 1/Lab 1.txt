@@ -1,0 +1,21 @@
+Lab 1
+
+Transform and clean data
+Use measures  + create dax table to store measures
+
+drill up and drill down
+
+use map chart
+
+use top N filters
+
+use slicer
+
+coulmn chart for number of unversties by region
+colmun chart sum score by region 
+cloumn chart average score by region
+describe why u have diffrent resurlts when you compare sum score university and average score university by region (when you sort descendeng the first column is not the same)
+
+---------------------
+use bookmark (search)
+

@@ -1,0 +1,27 @@
+- Transformation
+-modeling - star schema
+- Create DAX Measures table that contains all measures
+- cretate hierarchy 
+- Dim date
+Visuals 
+
+- Visual cards to show toal sales , number of orders, average quantity, max quantity, min quantity
+- line chart to show sales trend through date
+- Column chart to show most ordered product (sort descending)
+- treemap chart with 2 levels (category & product)
+- Pie chart to show shipping company by #orders
+- waterfall chart to show employees performance
+- slicer by country
+- top 5 customer by number of orders
+- Map chart for countries by sales
+- #orders by order date + #orders by shipdate + # orders by required date in the same line chart
+- Q & A chart
+- Quick Measure
+- At least 2 pages  - page navigator 
+- tooltip 
+- Bookmark
+
+
+
+
+ Good Colors, Layout and Chart Titles (Meaningful)
